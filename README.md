@@ -5,8 +5,8 @@
 **<p>AI Transformation | P&L Leadership | Scaling Consulting Businesses | C-Suite & Board Advisor | Cloud, Data & Growth Strategy</p>**
 
 <p>mailto:phallikainen@gmail.com | +358 (40) 630 8755 | Espoo, Finland</p>
-<p>(https://www.linkedin.com/in/petterihallikainen/)</p>
-<p>(https://github.com/phallikainen-cyber/phallikainen-cyber.github.io)</p>
+<p>https://www.linkedin.com/in/petterihallikainen/</p>
+<p>https://github.com/phallikainen-cyber/phallikainen-cyber.github.io</p>
 
 <p>----------------------------------------------------------------------------------</p>
 
