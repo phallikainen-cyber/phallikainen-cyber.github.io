@@ -79,35 +79,16 @@ _2000 – 2002_ | Finland
 ## Reference stories
 
 ### TIETOTURVA 2023 – CYBERSECURITY 2023 SEMINAR
-<p>On 12th October Finnish National Cybersecurity Centre held a cybersecurity conference where I was one of speakers. I
-was asked to talk and present what are cybersecurity threats and future as well what is in my opinion the weakest link in
-cybersecurity. There were more 2300 participants and I’ve got tens of positive feedback that my presentation was the best
-in conference. Brief details in finish: /1/ Tietoturva 2023 - tallenne ja esitysaineistot | Kyberturvallisuuskeskus.</p>
+<p>On 12th October Finnish National Cybersecurity Centre held a cybersecurity conference where I was one of the speakers. I was asked to talk and present what are cybersecurity threats and future as well what is in my opinion the weakest link in cybersecurity. There were more than 2300 participants and I’ve got tens of positive feedback that my presentation was the best in the conference. Brief details in finish: /1/ Tietoturva 2023 - tallenne ja esitysaineistot | Kyberturvallisuuskeskus.</p>
 
 ### REFERENCE CASE – Business Transformation into Data Drive company
-<p>I was a Strategic Advisor and lead for Norwegian energy company to advice them and later to lead transformation of
-customer into Data Driven model along building GiHub based platform engineering practises. Transformation included
-organizational and process model changes. Overseeing and leading the team of more than 30 people from strategic
-consulting to cloud and platform engineers besides data and AI engineers. Representing Accenture Strategic Consulting
-as leading Partner to advise, develop and build long lasting partnership with this world one of the biggest energy company
-to transform how their use data to make strategic and operational decisions.</p>
+<p>I was a Strategic Advisor and lead for Norwegian energy company to advise them and later to lead transformation of customer into Data Driven model along building GiHub based platform engineering practices. Transformation included organizational and process model changes. Overseeing and leading the team of more than 30 people from strategic consulting to cloud and platform engineers besides data and AI engineers. Representing Accenture Strategic Consulting as leading Partner to advise, develop and build long lasting partnership with this world one of the biggest energy companies to transform how they use data to make strategic and operational decisions.</p>
 
 ### REFERENCE CASE – Digital business transformation of Digitalized Insurance company
-<p>Helped customer to set the mission critical priority to transform their insurance business into digital business model by
-leveraging newest possibilities around cloud, process automation and other digitalization assets. Adviced leadership to
-formulate their vision, ambition and strategic plan to achieve this. Was the innovation author to build such entity with
-digitalized automation solution by finding echnological solution to deliver Finland’s first 100% digital insurance company.
-This included lot of innovations like fully automated digitalized insurance claims process before AI era. Now looking back,
-it was what we now call Agentic AI back then it was Business Process Management and Automation based on
-programmable rule engines.</p>
+<p>Helped customers to set the mission critical priority to transform their insurance business into a digital business model by leveraging newest possibilities around cloud, process automation and other digitalization assets. Advised leadership to formulate their vision, ambition and strategic plan to achieve this. Was the innovation author to build such an entity with a digitalized automation solution by finding technological solutions to deliver Finland’s first 100% digital insurance company. This included lot of innovations like fully automated digitalized insurance claims process before AI era. Now looking back, it was what we now call Agentic AI back then it was Business Process Management and Automation based on programmable rule engines.</p>
 
 ### REFERENCE CASE – Building competitive edge to Lead AI discussions and business
-<p>Have held AI workshops with leadersihip and CIO teams, for AI business and technology alignment multiple times from
-different starting positions; grow, efficiency, agility and GRC. Those includes business vision creation and communicating
-to stakeholders, disrupting the markets, workflow and process re-design strategy and action planning, solution building
-and business case creation. My strong technological skillset has set me the foundation and ability to be exceptional
-business executive with unique capability to see opportunities AI brings to Enterprises. My broad visibility across industries
-has set me transformative skills to map customers AI opportunities into business success.</p>
+<p>Have held AI workshops with leadership and CIO teams, for AI business and technology alignment multiple times from different starting positions; growth, efficiency, agility and GRC. Those include business vision creation and communicating to stakeholders, disrupting the markets, workflow and process re-design strategy and action planning, solution building and business case creation. My strong technological skillset has set me the foundation and ability to be exceptional business executive with unique capability to see opportunities AI brings to enterprises. My broad visibility across industries has set me transformative skills to map customers' AI opportunities into business success.</p>
 
 <p>----------------------------------------------------------------------------------</p>
 
