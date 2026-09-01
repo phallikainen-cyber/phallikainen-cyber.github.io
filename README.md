@@ -110,8 +110,6 @@ has set me transformative skills to map customers AI opportunities into business
 
 <p>----------------------------------------------------------------------------------</p>
 
-<p>----------------------------------------------------------------------------------</p>
-
 ## Education
 
 ### Helsinki Polytechnic | B.Sc Software Engineering
