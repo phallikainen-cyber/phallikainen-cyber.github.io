@@ -7,7 +7,7 @@
 <p>mailto:phallikainen@gmail.com | +358 (40) 630 8755 | Espoo, Finland</p>
 <p>(https://www.linkedin.com/in/petterihallikainen/) | (https://github.com/phallikainen-cyber/phallikainen-cyber.github.io)</p>
 
-<p>----------------------------------------------------------------------------------------------------------------------------------</p>
+<p>----------------------------------------------------------------------------------</p>
 
 ## Professional Summary
 <p>Throughout my 25+ year career with scaling technology businesses and advising C-suite executives across the Nordics , I have proven a track record that technology is not a cost center — it is the single greatest engine for corporate valuation, revenue acceleration, and margin expansion. I am bringing my proven execution capability for the position to bring this exact commercial velocity and strategic foresight to your organization.</p>
@@ -30,7 +30,7 @@
   <p>- Driving Top-Line Velocity: Delivered +40% sales growth YoY and 70% revenue growth over three years in the Nordics sector.</p>
   <p>- Architecting Landmark Transactions: Structured, negotiated, and closed a €180M Joint Venture deal—one of the largest technology transactions in Finland’s corporate history.</p>
   <p>- A modern leader must be a visionary strategist, an iron-disciplined operator, and an elite commercial dealmaker. I brought all three. I am deeply committed to mobilizing high-performing, cross-border teams and leveraging strong ecosystem partnerships (such as Microsoft and Accenture) to position your enterprise as the undisputed leader in its market.</p>
-<p>----------------------------------------------------------------------------------------------------------------------------------</p>
+<p>----------------------------------------------------------------------------------</p>
 
 ## Experience
 
@@ -73,14 +73,14 @@ _2002 – 2007_ | Finland
 _2000 – 2002_ | Finland
 - Designing and configuring IP/MPLS networks and architectures
 
-<p>----------------------------------------------------------------------------------------------------------------------------------</p>
+<p>----------------------------------------------------------------------------------</p>
 
 ## Education
 
 ### Helsinki Polytechnic | B.Sc Software Engineering
 _2004_ | Helsinki, Finland
 
-<p>----------------------------------------------------------------------------------------------------------------------------------</p>
+<p>----------------------------------------------------------------------------------</p>
 
 ## Skills
 - AI & Digital Transformation
@@ -92,5 +92,5 @@ _2004_ | Helsinki, Finland
 - Ecosystem Partnerships (Microsoft, Accenture)
 - Operating Model & Target Architecture Design
 
-<p>----------------------------------------------------------------------------------------------------------------------------------</p>
+<p>----------------------------------------------------------------------------------</p>
 
