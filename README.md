@@ -1,4 +1,4 @@
-# Biography and Curriculum Vitae
+# Biography and Portfolio
 
 ## Petteri Hallikainen
 
